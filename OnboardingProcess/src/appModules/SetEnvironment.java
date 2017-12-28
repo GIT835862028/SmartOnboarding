@@ -13,5 +13,6 @@ public class SetEnvironment extends psUtility {
 	@Test
 	public static void Execute() throws Exception {
 		setEnvironment(Constant.InternalURL);
+		System.out.println("Migration Testing");
 	}
 }
