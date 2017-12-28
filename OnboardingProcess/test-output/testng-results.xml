@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12880" started-at="2017-12-28T10:32:23Z" finished-at="2017-12-28T10:32:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12880" started-at="2017-12-28T10:32:23Z" finished-at="2017-12-28T10:32:36Z">
+      <class name="appModules.SetEnvironment">
+        <test-method status="PASS" signature="Execute()[pri:0, instance:appModules.SetEnvironment@25a98f]" name="Execute" duration-ms="12856" started-at="2017-12-28T16:02:23Z" finished-at="2017-12-28T16:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Execute -->
+      </class> <!-- appModules.SetEnvironment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
